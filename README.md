@@ -6,7 +6,7 @@
 
 > **Public project showcase.** 论文、图片和演示视频现已公开；研究实现代码暂未发布。
 
-[论文稿](paper/rcar.pdf) · [仿真演示](media/demo.mp4) · [网页文件](index.html) · [来源说明](SOURCE_NOTES.md)
+[论文稿](https://anonnyyy.github.io/projects/rcar-humanoid-reaching/paper/rcar.pdf) · [仿真演示](https://anonnyyy.github.io/projects/rcar-humanoid-reaching/#video) · [网页文件](https://anonnyyy.github.io/projects/rcar-humanoid-reaching/) · [来源说明](SOURCE_NOTES.md)
 
 ![H1 图像条件下的目标到达](assets/poster.jpg)
 
@@ -35,4 +35,4 @@
 
 ## Viewing the page
 
-下载仓库后用浏览器打开 `index.html`，即可查看完整排版、播放视频和放大图片。GitHub 的 HTML 文件浏览页不会运行网站。页面和媒体均已公开。研究实现代码暂未发布；尚未启用网站托管。
+下载仓库后用浏览器打开 `index.html`，即可查看完整排版、播放视频和放大图片。页面和媒体均已公开。研究实现代码暂未发布；在线浏览：https://anonnyyy.github.io/projects/rcar-humanoid-reaching/
